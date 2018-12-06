@@ -35,10 +35,7 @@ namespace VectoresParam
                 Console.WriteLine("\nElemento {0}", num);
             }
         }
-
-
-
-    
+                          
 
     }
 }
